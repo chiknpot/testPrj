@@ -2,7 +2,7 @@
 ## Prerequistic
 * hostname : Master is hadoop master
 
-*example
+* example
 ```
 sudo -i
 echo "111.111.111.111 master" >> /etc/hosts
