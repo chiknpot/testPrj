@@ -1,6 +1,7 @@
 # testPrj
 ## Prerequistic
 * hostname : Master is hadoop master
+
 *example
 ```
 sudo -i
